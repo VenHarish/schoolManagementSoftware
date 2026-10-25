@@ -127,3 +127,5 @@ You can customize your generator template working with files in .skaffolder fold
 
 Please refer to https://skaffolder.com/#/documentation/skaffolder-cli for more information.
 
+
+
